@@ -1,0 +1,1 @@
+crown	bronze	silver	gold	platinum	diamond	ace	conqueror	
