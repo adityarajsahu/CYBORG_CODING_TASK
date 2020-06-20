@@ -127,3 +127,5 @@ Objective: From the given 3 images below threshold the images in such a way
 
 Programmed using: Python
 
+**********************************************************************
+
