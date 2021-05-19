@@ -83,7 +83,7 @@ Programmed using: Python
 
 TASK-3
 
-Description: Analysing the California housing datadet.
+Description: Analysing the California housing dataset.
 
 Objective:
 1.	Display few(4-5) entries both from the first and last, using 
